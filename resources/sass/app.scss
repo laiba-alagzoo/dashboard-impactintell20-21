@@ -1,0 +1,31 @@
+/* regular */
+@font-face {
+    font-family: 'Knowledge';
+    src: url('../fonts/knowledge-regular.ttf') format('ttf'), url('../fonts/knowledge-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* medium */
+@font-face {
+    font-family: 'Knowledge';
+    src: url('../fonts/knowledge-medium.ttf') format('ttf'), url('../fonts/knowledge-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* bold */
+@font-face {
+    font-family: 'Knowledge';
+    src: url('../fonts/knowledge-bold.ttf') format('ttf'), url('../fonts/knowledge-bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'Knowledge', Arial, Helvetica, sans-serif;
+}
+

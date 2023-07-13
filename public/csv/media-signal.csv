@@ -1,0 +1,6 @@
+Sector,Opportunity,Signal,Impact,Degree,Distance
+Government,"Government push to \ndevelop local media",1,0,95,0.6
+Government,Pan-Islamic TV channel,0,1,20,0.8
+Business/Investment,Muslim-themed \nstreaming platforms,1,0,180,0.8
+Business/Investment,Online gaming boom,0,1,255,0.6
+Business/Investment,Muslim-themed TV \nseries and films,1,1,300,0.7

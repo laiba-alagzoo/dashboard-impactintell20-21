@@ -1,0 +1,7 @@
+Sector,Opportunity,Signal,Impact,Degree,Distance
+Government,Supply chain \nglobal shifts,1,1,70,0.8
+Government,Food security focus,0,1,20,0.85
+Government,Stringent \nhalal regulations,1,1,110,0.6
+Business/Investment,Halal cloud-kitchen,0,0,170,0.7
+Business/Investment,Health-focused \nand functional foods,1,0,245,0.6
+Business/Investment,Ready-to-Eat/\nReady-to-Cook segment,1,0,300,0.8

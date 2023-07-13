@@ -1,0 +1,7 @@
+Sector,Opportunity,Signal,Impact,Degree,Distance
+Government,Supply chain \nglobal shifts,1,1,60,0.5
+Government,Medical security focus,0,1,20,0.75
+Government,Stringent \nhalal regulations,1,1,110,0.6
+Business/Investment,Nutraceuticals \ndemand,0,0,160,0.8
+Business/Investment,"Indonesia, Saudi Arabia \nlocal manufacturing push",1,0,230,0.6
+Business/Investment,Telemedicine demand,1,0,295,0.8
